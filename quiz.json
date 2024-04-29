@@ -1,0 +1,35 @@
+[
+    {
+        "sporsmaal":"Hva består video av?", 
+        "svar":"stillbilder"
+    },
+    {
+        "sporsmaal":"Hva lagres lyd som?", 
+        "svar":"binær data"
+    },
+    {
+        "sporsmaal":"Kompresjon gjør det enklere å håndtere og distribuere data, men det finnes enda en fordel. Hva er denne?", 
+        "svar":"lagring"
+    },
+    {
+        "sporsmaal":"Nevn en tapsfri komprimeringsmetode.",
+        "svar1":"PNG",
+        "svar2":"GIF"
+    },
+    {
+        "sporsmaal":"Vi har en tapsfri komprimeringsmetode, men hva heter den andre?",
+        "svar":"destruktiv"
+    },
+    {
+        "sporsmaal":"Hvilken farge får vi RGB(255,255,255)",
+        "svar":"hvit"
+    },
+    {
+        "sporsmaal":"Hvilken farge får vi RGB(0,0,255)",
+        "svar":"blå"
+    },
+    {
+        "sporsmaal":"Per får i oppgave å lage en svart en svart boks på en nettside. Fullfør koden nedenfor slik at fargen på boksen blir svart.",
+        "svar":"0,0,0"
+    }
+]
